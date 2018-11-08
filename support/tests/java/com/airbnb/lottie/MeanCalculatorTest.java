@@ -1,6 +1,6 @@
-package aoscp.support.lottie;
+package six.support.lottie;
 
-import aoscp.support.lottie.utils.MeanCalculator;
+import six.support.lottie.utils.MeanCalculator;
 
 import org.junit.Before;
 import org.junit.Test;

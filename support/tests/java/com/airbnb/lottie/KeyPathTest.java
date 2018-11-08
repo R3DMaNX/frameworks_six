@@ -1,8 +1,8 @@
-package aoscp.support.lottie;
+package six.support.lottie;
 
 import android.util.JsonReader;
 
-import aoscp.support.lottie.model.KeyPath;
+import six.support.lottie.model.KeyPath;
 
 import org.junit.Before;
 import org.junit.Test;
